@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-
+#############################################################################################
+#script to measure distance b/w the camera and the center of 4 aruco markers and publish it
+#############################################################################################
 import cv2 as cv
 from cv2 import aruco
 import numpy as np
